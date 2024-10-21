@@ -1,0 +1,16 @@
+torch
+transformers
+google-protobuf
+protobuf
+
+# Optional dependencies for optimization
+deepseed
+
+# CUDA compatibility (if needed for GPU acceleration)
+nvidia-cuda-toolkit
+
+# Utilities for memory management
+GPUtil
+
+# Additional libraries for NLP
+sentencepiece
